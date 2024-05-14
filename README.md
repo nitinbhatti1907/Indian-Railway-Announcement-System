@@ -1,0 +1,2 @@
+# Title :- Indian Railway Announcement System Project.
+Description :- An Indian Railway Announcement System using Python can be a software project that announces the train arrival and departure information, platform numbers, and other relevant details. The system would require a database to store information about the trains and their schedules, which could be updated by the user in this project. For store the data of trains in this project we use the xlsx file that store the train data like name,number,platform etc.
